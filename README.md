@@ -46,7 +46,7 @@
 | AdaMax_cifar_10.py | Побудова карт динамічних режимів для AdaMax на CIFAR-10 |
 | AdamW_cifar_10.py | Побудова карт динамічних режимів для AdamW на CIFAR-10 |
 | AdamW_cifar_100.py | Побудова карт динамічних режимів для AdamW на CIFAR-100 |
-| AdamW_cifar_Fashion_MNIST.py | Побудова карт динамічних режимів для AdamW на Fashion-MNIST |
+| AdamW_Fashion_MNIST.py | Побудова карт динамічних режимів для AdamW на Fashion-MNIST |
 | data/ | Локально збережені набори даних CIFAR-10 та CIFAR-100|
 |data_fmnist/ | Локально збережений набір даних Fashion-MNIST|
 |runs_/ | Згенеровані результати експериментів|
